@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aksel!
 
-<!--
-**akhegr/akhegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated developer, that enjoys building clean UI, designing smart backend solutions, and creating tools that make a real impact.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: `ScoutBattle` — a platform where leaders award scouts points for completing tasks, creating a competition to be the best team
+- 🌱 I’m learning: Vue and TypeScript
+- 👨‍💻 Tech I enjoy: C#, .NET, Java, MySQL
+- 🎯 Goal: Building tools, people like to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My GitHub Stats
+![akhegr's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhegr&show_icons=true&theme=radical)
+
+## 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,tailwind,ts,nodejs,mysql,git" />
