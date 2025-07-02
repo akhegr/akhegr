@@ -11,4 +11,4 @@ I'm a dedicated developer, that enjoys building clean UI, designing smart backen
 ![akhegr's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhegr&show_icons=true&theme=radical)
 
 ## 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=react,tailwind,ts,nodejs,mysql,git" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,javascript,jquery,bootstrap,typescript,mysql,visualstudio,vscode,postman,github,azure" />
